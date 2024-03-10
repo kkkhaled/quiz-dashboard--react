@@ -1,0 +1,33 @@
+{
+  "header": {
+    "welcome": "Welcome Khaled"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "schedule": "Schedule",
+    "courses": "Course",
+    "grades": "GradeBook",
+    "performance": "Performance",
+    "announcement": "Announcement",
+    "ArLang": "ar lang"
+  },
+  "content": {
+    "EXAMS_TIMES": "EXAMS TIMES",
+    "LOREM_IPSUM_TITLE": "Lorem ipsum dolor sit amet",
+    "LOREM_IPSUM_BODY": "Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet, ipsum dolor sit amet, consectetur adipisicing elit. Quos, vel. Minus voluptas maxime repudiandae recusandae!",
+    "LOREM_IPSUM_ITALIC": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore, labore.",
+    "VIEW_EXAMPLE_TIPS": "View Example Tips"
+  },
+  "quiz": {
+    "dueTitle": "What is due",
+    "dueDescription": "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    "all": "All"
+  },
+  "quizItem": {
+    "unitQuiz": "Unit 2 quiz",
+    "course": "Course:",
+    "topic": "Topic:",
+    "dueTo": "Due to:",
+    "startQuiz": "Start Quiz"
+  }
+}
